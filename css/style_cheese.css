@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(204, 226, 240);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: brown;
+    color: whitesmoke;
+}
+img{
+    height: 450px;
+    width: 800px;
+}
+h2, h3, h4{
+    font-size: 30px;
+    color: sienna;
+}
+p{
+    font-family: cursive;
+    font-size: 30px;
+}
+ul{
+    font-family:'Times New Roman', serif;
+    font-size: 25px;
+}
+ol{
+    font-size: 20px;
+}
+a{
+    font-weight: bold;
+    font-size: 30px;
+}
