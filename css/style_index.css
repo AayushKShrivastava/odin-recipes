@@ -1,0 +1,17 @@
+.home{
+    background-color: rgb(233, 218, 196);
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(216, 134, 27);
+}
+img{
+    height: 400px;
+    width: 1000px;
+}
+ul{
+    font-weight: bold;
+    font-size: 35px;
+}
